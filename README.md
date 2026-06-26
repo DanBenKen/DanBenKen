@@ -1,6 +1,6 @@
 ### Hi, I'm Danijel 👋
 
-**Full-Stack Engineer & Automation Architect.** I build production systems where the application, the workflow engine, and the AI layer work together as one coherent whole — not three separate things bolted together.
+**Full-Stack Engineer & Automation Architect.** I build production systems where the application, the workflow engine, and the AI layer work together as one coherent whole, not three separate things bolted together.
 
 ---
 
@@ -14,9 +14,7 @@ Running an independent consulting practice for international clients. Core focus
 
 #### 📂 About this profile
 
-The public repositories here are from my **6-month .NET Developer retraining program** at IceFyre Solutions (Sep 2024 – Mar 2025) — full-stack .NET + JavaScript fundamentals, with WorkshopManager as the final capstone project.
-
-My **current production work** (Sep 2025 – Present) is in private client repositories under NDA. For details on recent engagements, see my [LinkedIn profile](https://www.linkedin.com/in/danijel-bogi%C4%8Devi%C4%87/).
+My production work lives in private client repositories under NDA, so this profile stays intentionally light on public code. For recent engagements and case details, see my [LinkedIn profile](https://www.linkedin.com/in/danijel-bogi%C4%8Devi%C4%87/).
 
 #### 🔧 Stack
 
@@ -26,4 +24,6 @@ My **current production work** (Sep 2025 – Present) is in private client repos
 
 **LinkedIn:** [danijel-bogičević](https://www.linkedin.com/in/danijel-bogi%C4%8Devi%C4%87/)
 
-Open to international consulting engagements — automation, AI integration, and full-stack production builds.
+Open to international consulting engagements: automation, AI integration, and full-stack production builds.
+
+---
